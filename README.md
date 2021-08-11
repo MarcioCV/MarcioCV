@@ -16,20 +16,19 @@
 </div>
 
 
+- Trust you 🎇
 
 
-```python
+```
 let = {
   "Age":[20],
-  "Name":[Marcio],
+  "Name":[Marcinho],
   "Country":[Brazil],
   "City":[Sao Paulo - SP],
-  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,PYTHON,C++,RUBY,PHP,JQURY,C#],
+  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,PYTHON,C++,RUBY,PHP,JQURY,C# ],
   "college": ["Information Systems"],
   }
 ```
-
-
 
 
 <div> 
@@ -39,20 +38,6 @@ let = {
   <a href = "mailto:danimaltoc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniela-malta-4866b9207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

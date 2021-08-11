@@ -24,55 +24,18 @@ Believe that everything is a matter of time
 
 
 
-My skill 🍨
+
 ```python
 let = {
-  "Age":[21],
-  "Name":[Daniela],
-  "Country":[Brazil],
-  "City":[Sao Paulo - SP],
-  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,GULP],
-  "college": ["System development analysis"],
-  }
-```
-
-
-
-
-<div> 
-  <a href="https://www.instagram.com/daniella_mallta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/daniizzinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@Danizinha#2024" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:danimaltoc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniela-malta-4866b9207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-let = {
   "Age":[20],
-  "Name":[Marcinho],
+  "Name":[Marcio],
   "Country":[Brazil],
   "City":[Sao Paulo - SP],
-  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,PYTHON,C++,RUBY,PHP,JQURY,C# ],
-  "college": ["INFORMATION SYSTEM"],
+  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,PYTHON,C++,RUBY,PHP,JQURY,C#],
+  "college": ["Information Systems"],
   }
 ```
+
 
 
 
@@ -83,6 +46,20 @@ let = {
   <a href = "mailto:danimaltoc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniela-malta-4866b9207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

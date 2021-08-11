@@ -16,13 +16,6 @@
 </div>
 
 
-Trust you 🎇
-
-Believe that everything is a matter of time
-
-✨Magic ✨
-
-
 
 
 ```python

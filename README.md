@@ -1,40 +1,22 @@
 ![10 Sem Título_20210731235529](https://user-images.githubusercontent.com/81580725/127784625-7ece538c-b63f-4d31-883b-8e9d9de2cd20.png)
-# (༼ つ ◕_◕ ༽つ) Print("Welcome  People") 🦁
-## Come with me and get to know me a little
+# (༼ つ ◕_◕ ༽つ) Print("Welcome  People")
 
-my name is Daniela I study programmation 1 year and a half I am attending the first year of systems development analysis prepared for a great opportunity ahead and I know where I want to go. 
+
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dan-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marcio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Marcio-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
 
 
 
-- Trust you 🎇
-- Believe that everything is a matter of time
-- ✨Magic ✨
 
-
-
-  My skill 🍨
-```python
-let = {
-  "Age":[21],
-  "Name":[Daniela],
-  "Country":[Brazil],
-  "City":[Sao Paulo - SP],
-  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,GULP],
-  "college": ["System development analysis"],
-  }
-```
 
 
 

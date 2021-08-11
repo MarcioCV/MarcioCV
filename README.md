@@ -1,5 +1,5 @@
 ![10 Sem Título_20210731235529](https://user-images.githubusercontent.com/81580725/127784625-7ece538c-b63f-4d31-883b-8e9d9de2cd20.png)
-#  (❁´◡`❁) Print("Welcome beautiful People") 🦁
+# (¯\_(ツ)_/¯) Print("Welcome beautiful People") 🦁
 ## Come with me and get to know me a little
 
 my name is Daniela I study programmation 1 year and a half I am attending the first year of systems development analysis prepared for a great opportunity ahead and I know where I want to go. 

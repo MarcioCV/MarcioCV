@@ -16,6 +16,18 @@
 </div>
 
 
+
+let = {
+  "Age":[21],
+  "Name":[Daniela],
+  "Country":[Brazil],
+  "City":[Sao Paulo - SP],
+  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,GULP],
+  "college": ["System development analysis"],
+  }
+```
+
+
 let = {
   "Age":[20],
   "Name":[Marcinho],

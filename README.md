@@ -16,8 +16,11 @@
 </div>
 
 
-- Trust you 🎇
+Trust you 🎇
 
+Believe that everything is a matter of time
+
+✨Magic ✨
 
 ```
 let = {
@@ -29,6 +32,9 @@ let = {
   "college": ["INFORMATION SYSTEM"],
   }
 ```
+
+
+
 
 
 <div> 

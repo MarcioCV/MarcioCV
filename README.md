@@ -15,6 +15,8 @@
 
 
 
+Motivational phrases 💨
+
 - Trust you 👨‍💻
 - Everything has the exact time 👊
 

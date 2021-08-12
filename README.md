@@ -16,7 +16,9 @@ let = {
   "Name":[Marcio],
   "Country":[Brazil],
   "City":[Sao Paulo - SP],
-  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,C,NODEJS,],
+  "Language": [HTML,CSS,JAVASCRIPT,MYSQL,PYTHON,JAVA AJAX,C,NODEJS,
+React.js,MongoDB
+],
   }
 ```
 

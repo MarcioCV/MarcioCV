@@ -1,6 +1,22 @@
 ![10 Sem Título_20210731235529](https://user-images.githubusercontent.com/81580725/127784625-7ece538c-b63f-4d31-883b-8e9d9de2cd20.png)
 #  (༼ つ ◕_◕ ༽つ) Print("Welcome People")
 
+Motivational phrases 💨
+- Trust you 👨‍💻
+- Everything has the exact time 👊
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,12 +30,7 @@
 
 
 
-<div>
-Motivational phrases 💨
 
-- Trust you 👨‍💻
-- Everything has the exact time 👊
-  </div>
 
 
 

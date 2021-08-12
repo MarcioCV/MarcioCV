@@ -18,13 +18,10 @@ my name is Daniela I study programmation 1 year and a half I am attending the fi
 
 
 
-- Trust you 🎇
-- Believe that everything is a matter of time
-- ✨Magic ✨
+- Trust you 👨‍💻
 
 
 
-  My skill 🍨
 ```python
 let = {
   "Age":[20],
